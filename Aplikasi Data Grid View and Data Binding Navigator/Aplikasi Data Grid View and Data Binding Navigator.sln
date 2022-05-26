@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikasi Data Grid View and Data Binding Navigator", "Aplikasi Data Grid View and Data Binding Navigator.csproj", "{F91D69A2-E6B9-4C02-906B-0979DCA38B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91D69A2-E6B9-4C02-906B-0979DCA38B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91D69A2-E6B9-4C02-906B-0979DCA38B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91D69A2-E6B9-4C02-906B-0979DCA38B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91D69A2-E6B9-4C02-906B-0979DCA38B52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E607A5-CAD7-4495-BFE7-5383D9BE9654}
+	EndGlobalSection
+EndGlobal
