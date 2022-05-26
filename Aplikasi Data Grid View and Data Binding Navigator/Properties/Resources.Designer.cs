@@ -73,6 +73,16 @@ namespace Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap back___Copy {
+            get {
+                object obj = ResourceManager.GetObject("back - Copy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap document {
             get {
                 object obj = ResourceManager.GetObject("document", resourceCulture);

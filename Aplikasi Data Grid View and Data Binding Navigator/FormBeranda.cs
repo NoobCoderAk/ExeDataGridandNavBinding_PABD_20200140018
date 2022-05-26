@@ -24,18 +24,21 @@ namespace Aplikasi_Data_Grid_View_and_Data_Binding_Navigator
 
         private void pictureDataGridView_Click(object sender, EventArgs e)
         {
+            //pindah ke form data grid view 
             new FormDataGridView().Show();
             this.Hide();
         }
 
         private void pictureDataBinding_Click(object sender, EventArgs e)
         {
+            //pindah ke form Binding view navigation
             new FormBindingViewNavigation().Show();
             this.Hide();
         }
 
         private void pictureBox_Exit_Click(object sender, EventArgs e)
         {
+            //Logout
             new FormLogin().Show();
             this.Hide();
         }

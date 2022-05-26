@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Aplikasi_Data_Grid_View_and_Data_Binding_Navigator
 {
-    public partial class FormBindingViewNavigation : Form
+    public partial class FormDetailMahasiswa : Form
     {
-        public FormBindingViewNavigation()
+        public FormDetailMahasiswa()
         {
             InitializeComponent();
         }
 
-        private void FormBindingViewNavigation_Load(object sender, EventArgs e)
+        private void FormDetailMahasiswa_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'prodiTIDataSet.Mahasiswa' table. You can move, or remove it, as needed.
             this.mahasiswaTableAdapter.Fill(this.prodiTIDataSet.Mahasiswa);
@@ -26,7 +26,8 @@ namespace Aplikasi_Data_Grid_View_and_Data_Binding_Navigator
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            new FormBeranda().Show();
+            //kembali ke form data grid view 
+            new FormDataGridView().Show();
             this.Hide();
         }
     }

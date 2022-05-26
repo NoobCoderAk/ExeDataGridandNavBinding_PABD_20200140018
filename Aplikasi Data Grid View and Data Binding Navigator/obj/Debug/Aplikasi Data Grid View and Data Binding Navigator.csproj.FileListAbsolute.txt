@@ -1,0 +1,14 @@
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\bin\Debug\Aplikasi Data Grid View and Data Binding Navigator.exe.config
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\bin\Debug\Aplikasi Data Grid View and Data Binding Navigator.exe
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\bin\Debug\Aplikasi Data Grid View and Data Binding Navigator.pdb
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi Data Grid View and Data Binding Navigator.csprojAssemblyReference.cache
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.FormBeranda.resources
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.FormBindingViewNavigation.resources
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.FormLogin.resources
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.Properties.Resources.resources
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi Data Grid View and Data Binding Navigator.csproj.GenerateResource.cache
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi Data Grid View and Data Binding Navigator.csproj.CoreCompileInputs.cache
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi Data Grid View and Data Binding Navigator.exe
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi Data Grid View and Data Binding Navigator.pdb
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.FormDataGridView.resources
+E:\DATA SOURCE CODE\PABD\Exercise 2\Aplikasi Data Grid View and Data Binding Navigator\obj\Debug\Aplikasi_Data_Grid_View_and_Data_Binding_Navigator.FormDetailMahasiswa.resources
