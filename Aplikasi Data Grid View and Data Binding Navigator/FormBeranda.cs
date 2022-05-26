@@ -16,5 +16,28 @@ namespace Aplikasi_Data_Grid_View_and_Data_Binding_Navigator
         {
             InitializeComponent();
         }
+
+        private void FormBeranda_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureDataGridView_Click(object sender, EventArgs e)
+        {
+            new FormDataGridView().Show();
+            this.Hide();
+        }
+
+        private void pictureDataBinding_Click(object sender, EventArgs e)
+        {
+            new FormBindingViewNavigation().Show();
+            this.Hide();
+        }
+
+        private void pictureBox_Exit_Click(object sender, EventArgs e)
+        {
+            new FormLogin().Show();
+            this.Hide();
+        }
     }
 }
